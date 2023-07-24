@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Elzubair\source\repos\Binary Search\Binary Search\Source.cpp(21): warning C4715: 'BSearch': not all control paths return a value
+  Binary Search.vcxproj -> C:\Users\Elzubair\source\repos\Binary Search\Debug\Binary Search.exe
